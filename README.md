@@ -8,9 +8,9 @@ My name is Mohammad and I am a 14 year old self taught web developer. After expe
 
 * 🌍  I'm based in canada, montreal
 * ✉️  You can contact me at [mohamad51440@onmail.com](mailto:mohamad51440@onmail.com)
-* 🚀  I'm currently working on [learning react](http://reactjs.org)
+* 🚀  I'm currently working on [learning NEXT JS]
 * 🧠  I'm learning React and Django
-* 🤝  I'm open to collaborating on Any project using React JS or Vanilla JavaScript
+* 🤝  I'm open to collaborating on Any project using NODE JS
 
 ### Skills
 
