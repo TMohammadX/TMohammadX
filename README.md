@@ -4,7 +4,7 @@ Hi 👋 My name is Mohammad
 Web developer and designer
 --------------------------
 
-My name is Mohammad and I am a 14 year old self taught web developer. After experimenting with different programing niches, in 2020 I came across front end web development I didn't think much of it but after trying it for a few weeks I fell in love with it and since then I have been learning and expanding my knowledge.
+My name is Mohammad and I am a 15 year old self taught web developer. After experimenting with different programing niches, in 2020 I came across front end web development I didn't think much of it but after trying it for a few weeks I fell in love with it and since then I have been learning and expanding my knowledge.
 
 * 🌍  I'm based in canada, montreal
 * ✉️  You can contact me at [mohamad51440@onmail.com](mailto:mohamad51440@onmail.com)
