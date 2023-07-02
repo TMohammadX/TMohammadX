@@ -32,4 +32,4 @@ My name is Mohammad and I am a 15 year old self taught web developer. After expe
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/BARGINE0"><img src="https://github-readme-stats.vercel.app/api?username=BARGINE0&show_icons=true&hide=issues,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="BARGINE0's GitHub stats" /></a>
+<a href="http://www.github.com/TMohammadX"><img src="https://github-readme-stats.vercel.app/api?username=BARGINE0&show_icons=true&hide=issues,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="BARGINE0's GitHub stats" /></a>
