@@ -10,7 +10,7 @@ My name is Mohammad and I am a 15 year old self taught web developer. After expe
 * ✉️  You can contact me at [mohamad51440@onmail.com](mailto:mohamad51440@onmail.com)
 * 🚀  I'm currently working on NEXT JS
 * 🧠  I'm learning react native and expo
-* 🤝  I'm open to collaborating on Any project using NODE JS
+* 🤝  I'm open to collaborating on Any project using 
 
 ### Skills
 
@@ -28,7 +28,7 @@ My name is Mohammad and I am a 15 year old self taught web developer. After expe
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/BARGINE0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/BARGINE0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/BARGINE0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/TMohammadX" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 <b>My GitHub Stats</b>
 
